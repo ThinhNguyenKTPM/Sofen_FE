@@ -1,0 +1,25 @@
+/* .ant-btn-default{
+    background-color: #BE1826;
+    color: white;
+} */
+
+.ant-btn-default:hover {
+    color: yellow;
+}
+
+.ant-dropdown .ant-dropdown-menu {
+    background-color: #BE1826;
+}
+
+.ant-dropdown .ant-dropdown-menu .ant-dropdown-menu-item {
+    background-color: #BE1826;
+    color: white;
+}
+
+.ant-dropdown .ant-dropdown-menu .ant-dropdown-menu-item:hover{
+    color: yellow;
+}
+
+.ant-dropdown{
+    min-width: unset !important;
+}

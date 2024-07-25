@@ -1,0 +1,68 @@
+:root{
+    --primary-color: #FF6B00;
+}
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+* {
+    padding: 0;
+    margin: 0;
+}
+#root{
+    @media (min-width:1220px) {
+        /*overflow-x: hidden;*/
+
+    }
+}
+
+ul{
+    li{
+        list-style: none;
+    }
+}
+.flex-center-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    @media (max-width: 560px) {
+        flex-direction: column;
+    }
+}
+.flex-center-column{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.ant-typography+h5.ant-typography{
+    margin: 0;
+}
+
+.black-button.ant-btn-default:not(:disabled):not(.ant-btn-disabled):hover{
+    background-color: unset;
+}
+
+.primary-button.ant-btn-default:not(:disabled):not(.ant-btn-disabled):hover{
+    background-color: var(--primary-color);
+    color: #fff;
+}
+
+
+.ant-typography+h1.ant-typography,
+.ant-typography+h2.ant-typography,
+.ant-typography+h3.ant-typography,
+.ant-typography+h4.ant-typography,
+.ant-typography+h5.ant-typography{
+    margin: 0;
+}
+div.ant-typography,
+h1.ant-typography, div.ant-typography-h1, div.ant-typography-h1>textarea, .ant-typography h1,
+h2.ant-typography, div.ant-typography-h2, div.ant-typography-h2>textarea, .ant-typography h2,
+h3.ant-typography, div.ant-typography-h3, div.ant-typography-h3>textarea, .ant-typography h3,
+h4.ant-typography, div.ant-typography-h4, div.ant-typography-h4>textarea, .ant-typography h4,
+h5.ant-typography, div.ant-typography-h5, div.ant-typography-h5>textarea, .ant-typography h4{
+    margin-bottom: 0;
+}
+

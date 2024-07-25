@@ -1,0 +1,174 @@
+{
+  "app": {
+    "title": "The Sofen Hotel"
+  },
+  "language": {
+    "vietnamese": "Tiếng Việt (VN)",
+    "english": "Tiếng Anh (EN)"
+  },
+  "header": {
+    "index": "Trang chủ",
+    "explore": "Khám phá",
+    "about": "Về chúng tôi",
+    "contact": "Liên hệ",
+    "search": "Tìm khách sạn",
+    "signIn": "Đăng nhập",
+    "signUp": "Đăng ký"
+  },
+  "footer": {
+    "quickLinks": {
+      "title": "Liên kết nhanh",
+      "home": "Trang chủ",
+      "about": "Về chúng tôi",
+      "contact": "Liên hệ",
+      "explore": "Khám phá"
+    },
+    "contact": {
+      "title": "Luôn được cập nhật",
+      "text": "Có chuyến đi mơ ước của bạn trong tầm tay của bạn.",
+      "inputPlaceholder": "Nhập email của bạn",
+      "button": "Nhập Email"
+    },
+    "policy": {
+      "title": "Chính sách",
+      "policy": "Chính sách bảo mật",
+      "legal": "Quy định",
+      "faq": "Câu hỏi thường gặp"
+    },
+    "inputForm": {
+      "emailRequired": "Vui lòng nhập email",
+      "emailInvalid": "Email không đúng định dạng"
+    }
+  },
+  "homePage": {
+    "slogan": {
+      "title1": "NGÀY RONG CHƠI,",
+      "title2": "ĐÊM YÊN ẤM",
+      "search": "Tìm phòng phù hợp",
+      "about": "Về chúng tôi",
+      "contact": "Liên hệ"
+    },
+    "services": {
+      "drink": "Nước uống miễn phí",
+      "wifi": "Wifi miễn phí",
+      "pickUp": "Xe đưa đón tận nơi",
+      "spa": "Span & nghỉ dưỡng"
+    },
+    "reasonOfChoice": {
+      "titleBlack": "Lý do bạn chọn",
+      "titleOrange": "Đặt chỗ với chúng tôi",
+      "note": "Đi cùng người thân vừa vui vừa thích",
+      "reason1Title": "Đáp ứng mọi nhu cầu của bạn",
+      "reason1Text": "Từ chuyến bay, lưu trú, đến điểm tham quan, bạn có thể tin chọn sản phẩm hoàn chỉnh và Hướng Dẫn Du Lịch của chúng tôi.",
+      "reason2Title": "Tùy chọn đặt chỗ linh hoạt",
+      "reason2Text": "Kế hoạch thay đổi bất ngờ? Đừng lo! Đổi lịch hoặc Hoàn tiền dễ dàng.",
+      "reason3Title": "Thanh toán an toàn và thuận tiện",
+      "reason3Text": "Tận hưởng nhiều cách thanh toán an toàn, bằng loại tiền thuận tiện nhất cho bạn."
+    },
+    "ourRooms": {
+      "titleHeader": "Phòng tại The Sofen Hotel",
+      "titleBlack": "Lựa chọn",
+      "titleOrange": "Hoàn hảo nhất cho bạn",
+      "note": "Luôn được cập nhật về các lời khuyên du lịch, đề xuất và khuyến mãi mới nhất.",
+      "billionPrice": "triệu"
+    },
+    "discovery": {
+      "titleHeader": "Khám phá",
+      "titleBlack": "Vui hân hoan",
+      "titleOrange": "Khách sạn luôn có sách ưu đãi",
+      "note": "Nâng tầm chuyến đi theo cách bạn muốn",
+      "explore": "KHÁM PHÁ NGAY"
+    },
+    "utilities": {
+      "title": "PHÒNG CỔ ĐIỂN VÀ SANG TRỌNG",
+      "totalRating": "Hơn 5000+ đánh giá",
+      "note": "Nhiều tiện ích và dịch vụ vượt trội",
+      "utility1Title": "Nhà hàng",
+      "utility1Text": "Thức ăn đặc sản và nhiều lựa chọn",
+      "utility2Title": "Spa & Sức khỏe",
+      "utility2Text": "Luôn chăm sóc cho bạn và gia đình",
+      "utility3Title": "Phòng chất lượng cao",
+      "utility3Text": "Nội thất sang trọng và tiện nghi",
+      "utility4Title": "Quầy Bar",
+      "utility4Text": "Nhiều lựa chọn với nhiều lứa tuổi"
+    }
+  },
+  "bookingStatus": {
+    "success": {
+      "header": "Đặt phòng thành công!",
+      "title": "Yêu cầu đặt phòng của bạn đã được tiếp nhận.",
+      "text1": "Vui lòng kiểm tra email",
+      "text2": " để nhận kết quả điện tử"
+    },
+    "fail": {
+      "header": "Đã xảy ra lỗi trong quá trình đặt phòng!",
+      "title": " Yêu cầu đặt phòng của bạn chưa được tiếp nhận.",
+      "text1": "Vui lòng liên hệ hotline",
+      "text2": " hoặc email",
+      "text3": " để được hỗ trợ.",
+      "button": "Quay lại trang chủ"
+    }
+  },
+  "bookingForm": {
+    "title": "Thông tin liên hệ (nhận vé/phiếu thanh toán)",
+    "note": "  Hãy điền chính xác tất cả thông tin để đảm bảo bạn nhận được Phiếu xác nhận đặt phòng (E-voucher) qua email của mình.",
+    "name": "Họ và tên",
+    "nameDesc": "Như trong Hộ chiếu/CMND/CCCD (không có danh xưng/ký tự đặc biệt)",
+    "email": "Email",
+    "emailDesc": "Chúng tôi sẽ gửi e-voucher tới email này.",
+    "phone": "Số điện thoại",
+    "phoneDesc": "ví dụ. +62812345678 gồm Mã quốc gia (+84) và Số di động 0812345678.",
+    "guestOptions": {
+      "label1": "Tôi là khách tham quan",
+      "label2": "Tôi đặt cho người khác"
+    },
+    "guestName": "Tên khách",
+    "specialRequest": "Yêu cầu đặc biệt",
+    "specialRequestDesc": "Ví dụ: Tầng cao, giường đôi, giường phụ, không hút thuốc, không có cửa sổ, vv.",
+    "discountCode": "Mã giảm giá",
+    "pickUpDestination": "Thông tin đưa đón & địa điểm",
+    "pickUpDestinationDesc": "  Nếu bạn cần chúng tôi đưa đón từ sân bay, ga, bến xe, vui lòng cung cấp thông tin chi tiết.",
+    "error": {
+      "nameRequired": "Vui lòng nhập họ và tên",
+      "emailRequired": "Vui lòng nhập email",
+      "emailInvalid": "Email không đúng định dạng",
+      "phoneRequired": "Vui lòng nhập số điện thoại",
+      "guestNameRequired": "Vui lòng nhập tên khách",
+      "specialRequestRequired": "Vui lòng nhập yêu cầu đặc biệt",
+      "pickUpDestinationRequired": "Vui lòng nhập thông tin đưa đón & địa điểm"
+    },
+    "button": "Nhấn để tiếp tục",
+    "term1": "Bằng việc tiếp tục thanh toán, bạn đã đồng ý với",
+    "term2": " Điều khoản và điều kiện ",
+    "term3": "cũng như",
+    "term4": "  Chính sách quyền riêng tư ",
+    "term5": " của The Sofen Hotel."
+  },
+  "detailPrice": {
+    "title": "Giá chi tiết",
+    "room": "phòng",
+    "night": "đêm",
+    "roomPrice": "Giá phòng",
+    "taxAndFee": "Thuế và phí",
+    "discount": "Giảm giá",
+    "total": "Tổng cộng"
+  },
+  "hotelPage": {
+    "hotelCard": {
+      "price": "Giá/phòng/đêm chỉ từ:",
+      "button": "Đặt ngay",
+      "hotelInfo": "Thông tin khách sạn",
+      "hotelInfoReadMore": "Đọc thêm",
+      "inArea": "Trong khu vực",
+      "seeMore": "See more"
+    },
+    "roomAtHotel": "Các phòng tại",
+    "roomCard": {
+      "guest": "khách",
+      "availableRoom": "phòng trống",
+      "cancelPolicy": "Xem chính sách hủy phòng",
+      "price": "/ phòng / đêm",
+      "seeRoomDetail" : "Xem chi tiết phòng"
+    }
+  }
+}

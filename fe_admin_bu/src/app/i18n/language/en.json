@@ -1,0 +1,175 @@
+{
+  "app": {
+    "title": "The Sofen Hotel"
+  },
+  "language": {
+    "vietnamese": "Vietnamese (VN)",
+    "english": "English (EN)"
+  },
+  "header": {
+    "index": "Home",
+    "explore": "Explore",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "search": "Search Hotels",
+    "signIn": "Sign in",
+    "signUp": "Sign up"
+  },
+  "footer": {
+    "quickLinks": {
+      "title": "Quick Links",
+      "home": "Home",
+      "about": "About Us",
+      "contact": "Contact Us",
+      "explore": "Explore"
+    },
+    "contact": {
+      "title": "Stay Updated",
+      "text": "Your dream vacation is at your fingertips.",
+      "inputPlaceholder": "Enter your email",
+      "button": "Subscribe"
+    },
+    "policy": {
+      "title": "Policies",
+      "policy": "Privacy Policy",
+      "legal": "Terms & Conditions",
+      "faq": "Frequently Asked Questions"
+    },
+    "inputForm": {
+      "emailRequired": "Email is required",
+      "emailInvalid": "Email is invalid"
+    }
+  },
+  "homePage": {
+    "slogan": {
+      "title1": "DAYS OF PLAY,",
+      "title2": "NIGHTS OF REST",
+      "search": "Find Your Perfect Room",
+      "about": "About Us",
+      "contact": "Contact Us"
+    },
+    "services": {
+      "drink": "Free drinks",
+      "wifi": "Free Wifi",
+      "pickUp": "Shuttle service",
+      "spa": "Spa & Wellness"
+    },
+    "reasonOfChoice": {
+      "titleBlack": "Reasons to choose",
+      "titleOrange": "Booking with Us",
+      "note": "Traveling with family is both fun and enjoyable",
+      "reason1Title": "We cater to your every need",
+      "reason1Text": "From flights, accommodation to attractions, you can trust our complete products and Travel Guide.",
+      "reason2Title": "Flexible booking options",
+      "reason2Text": "Unexpected change of plans? Don't worry! Easy reschedule or Refund.",
+      "reason3Title": "Safe and convenient payment",
+      "reason3Text": "Enjoy multiple secure payment methods in the most convenient currency for you."
+    },
+    "ourRooms": {
+      "titleHeader": "Rooms at The Sofen Hotel",
+      "titleBlack": "Choose",
+      "titleOrange": "Perfect for you",
+      "note": "Stay updated on the latest travel tips, suggestions and promotions.",
+      "billionPrice": "million"
+    },
+    "discovery": {
+      "titleHeader": "Discovery",
+      "titleBlack": "Excitement",
+      "titleOrange": "Hotel always has good deals",
+      "note": "Elevate your trip the way you want",
+      "explore": "EXPLORE NOW"
+    },
+    "utilities": {
+      "title": "CLASSIC & LUXURIOUS ROOMS",
+      "totalRating": "Over 5000+ reviews",
+      "note": "Many outstanding amenities and services",
+      "utility1Title": "Restaurant",
+      "utility1Text": "Special food and many choices",
+      "utility2Title": "Spa & Wellness",
+      "utility2Text": "Always caring for you and your family",
+      "utility3Title": "High-quality rooms",
+      "utility3Text": "Luxurious and comfortable furniture",
+      "utility4Title": "Bar",
+      "utility4Text": "Many options for all ages"
+    }
+  },
+  "bookingStatus": {
+    "success": {
+      "header": "Booking Successful!",
+      "title": "Your booking request has been received.",
+      "text1": "Please check your email",
+      "text2": " to receive the electronic ticket."
+    },
+    "fail": {
+      "header": "An error occurred during booking!",
+      "title": "Your booking request was not received.",
+      "text1": "Please contact the hotline",
+      "text2": " or email",
+      "text3": " for assistance.",
+      "button": "Back to Home"
+    }
+  },
+  "bookingForm": {
+    "title": "Contact Information (Ticket/Payment Voucher)",
+    "note": "Please fill in all information accurately to ensure you receive the Booking Confirmation (E-voucher) via your email.",
+    "name": "Full Name",
+    "nameDesc": "As in Passport/ID (no titles/special characters)",
+    "email": "Email",
+    "emailDesc": "We will send the e-voucher to this email.",
+    "phone": "Phone Number",
+    "phoneDesc": "e.g. +62812345678 including Country Code (+84) and Mobile Number 0812345678.",
+    "guestOptions": {
+      "label1": "I am the guest",
+      "label2": "I am booking for someone else"
+    },
+    "guestName": "Guest's Name",
+    "specialRequest": "Special Requests",
+    "specialRequestDesc": "e.g. High floor, double bed, extra bed, non-smoking, no window, etc.",
+    "discountCode": "Discount Code",
+    "pickUpDestination": "Pickup & Destination",
+    "pickUpDestinationDesc": "If you need us to pick up from airport, station, bus stop, please provide detailed information.",
+    "error": {
+      "nameRequired": "Please enter your full name",
+      "emailRequired": "Please enter your email",
+      "emailInvalid": "Invalid email format",
+      "phoneRequired": "Please enter your phone number",
+      "guestNameRequired": "Please enter guest's name",
+      "specialRequestRequired": "Please enter special requests",
+      "pickUpDestinationRequired": "Please enter pickup & destination information"
+    },
+    "button": "Click to continue",
+    "term1": "By continuing with the payment, you agree to the",
+    "term2": " Terms and Conditions ",
+    "term3": "as well as the",
+    "term4": " Privacy Policy ",
+    "term5": "of The Sofen Hotel."
+  },
+  "detailPrice": {
+    "title": "Price Details",
+    "room": "room",
+    "night": "night",
+    "roomPrice": "Room Price",
+    "taxAndFee": "Taxes and fees",
+    "discount": "Discount",
+    "total": "Total"
+  },
+  "hotelPage": {
+    "hotelCard": {
+      "price": "Price/room/night from to:",
+      "button": "Book now",
+      "hotelInfo": "Hotel information",
+      "hotelInfoReadMore": "Read more",
+      "inArea": "In the area",
+      "seeMore": "See more"
+    },
+    "roomAtHotel": "Rooms at",
+    "roomCard": {
+      "guest": "guest",
+      "availableRoom": "available rooms",
+      "cancelPolicy": "See Cancellation policy",
+      "price": "/ room / night",
+      "seeRoomDetail" : "See room details"
+    }
+  }
+}
+
